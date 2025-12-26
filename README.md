@@ -88,5 +88,3 @@ To speed up mastery:
 5. Apply **CI/CD + Test Driven Development** practices
 
 ---
-
-Do you want me to do that?
